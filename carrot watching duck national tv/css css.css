@@ -1,0 +1,44 @@
+#one{
+height: 150px;
+width: 150px;
+background-color: red;
+display: inline-block;
+}
+
+
+#two{
+height: 150px;
+width: 150px;
+background-color: yellow;
+display: inline-block;
+}
+
+
+#three{
+height: 150px;
+width: 150px;
+background-color: green;
+display: inline-block;
+}
+
+
+.navitem {
+list-style-type:none;
+display:inline;
+padding-right:1.5em;
+}
+
+
+#navmenu {
+width:250px;
+height:30px;
+margin:auto;
+}
+
+#hamsterTrivia {
+	
+}
+
+
+a:file:///C:/Users/Owner/Downloads/Sublime+Text+-+Windows%20(3)/Sublime/hamsters.html{ 
+color:orange;
